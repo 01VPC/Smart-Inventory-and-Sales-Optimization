@@ -88,13 +88,13 @@ The Power BI dashboard includes:
 ## 📸 Dashboard Screenshots
 
 ### Screenshot 1: Sales Overview Dashboard
-![Dashboard 1](Dashboard%1.png)
+![Dashboard 1](Dashboard1.png)
 
 ### Screenshot 2: Geographic Analysis
-![Dashboard 2](Dashboard%2.png)
+![Dashboard 2](Dashboard2.png)
 
 ### Screenshot 3: Vendor Performance
-![Dashboard 3](Dashboard 3.png)
+![Dashboard 3](Dashboard3.png)
 
 
 
