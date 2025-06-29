@@ -94,7 +94,7 @@ The Power BI dashboard includes:
 ![Dashboard 2](Dashboard%2.png)
 
 ### Screenshot 3: Vendor Performance
-![Dashboard 3](Dashboard%3.png)
+![Dashboard 3](Dashboard 3.png)
 
 
 
