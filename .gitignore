@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datasets & Images
+Background Image.png
+dataset.csv
+final_data_us.csv
+final_data.csv
+final_USA_dataset.csv
+Logo.png
+US_data.csv
+data_dictionary.docx
